@@ -25,7 +25,6 @@ const VideoHero = () => {
           <SearchFilter />
         </div>
       </div>
-    </div>
   );
 };
 
